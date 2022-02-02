@@ -6,8 +6,14 @@ Which has 60K users globally and generated around 2M XPath across 156 countries
 
 You can try out [TruePath](https://chrome.google.com/webstore/detail/truepath/mgjhkhhbkkldiihlajcnlfchfcmhipmn?hl=en)
 
+<div>
+<span> 
 <img src="https://github.com/gsumit1/gsumit1/blob/main/world.JPG" width="400" height="300">
-
+</span>
+<span>
+  [![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsumit1)](https://github-readme-stats.vercel.app/api?username=gsumit1&theme=radical)
+</span>
+<div>
 <!---![image](https://github.com/gsumit1/gsumit1/blob/main/world.JPG)--->
 
 
