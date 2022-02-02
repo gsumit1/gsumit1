@@ -13,7 +13,7 @@ You can try out [TruePath](https://chrome.google.com/webstore/detail/truepath/mg
 <span>
   [![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsumit1)](https://github-readme-stats.vercel.app/api?username=gsumit1&theme=radical)
 </span>
-<div>
+</div>
 <!---![image](https://github.com/gsumit1/gsumit1/blob/main/world.JPG)--->
 
 
