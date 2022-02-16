@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Sumit Ghosh
 - 👀 I’m interested in Test Automation, BDD, TDD, DevOps & Test Management
 
+![](https://komarev.com/ghpvc/?username=gsumit1)  
+
 :rocket: Developed a tool TruePath, web extension for Chrome & Firefox browser, generates XPath dynamically on click. 
 Which has 60K users globally and generated around 2M XPath across 156 countries
 You can try out [TruePath](https://chrome.google.com/webstore/detail/truepath/mgjhkhhbkkldiihlajcnlfchfcmhipmn?hl=en)
