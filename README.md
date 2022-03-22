@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sumit Ghosh from India
+- 👋 Hi, I’m Sumit Ghosh 
 - 👀 I’m interested in Test Automation, BDD, TDD, DevOps & Test Management
 
 ![](https://komarev.com/ghpvc/?username=gsumit1)  
