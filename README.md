@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sumit Ghosh 
-- 👀 I’m interested in Test Automation, BDD, TDD, DevOps & Test Management
+- 👀 I’m interested in Test Automation, BDD, TDD, DevOps & Test Management.
 
 ![](https://komarev.com/ghpvc/?username=gsumit1)  
 
