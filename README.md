@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Sumit Ghosh
 - 👀 I’m interested in Test Automation(Java, Selenium, Restassured, SOUPUI, Cucumber, Javascript, Cypress, MounteBank), BDD, TDD, DevOps & Test Management.
+- [My Blog](https://timus-4ever.medium.com/)
 
 ![](https://komarev.com/ghpvc/?username=gsumit1)  
 
