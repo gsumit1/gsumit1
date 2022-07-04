@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=gsumit1)  
 
 :rocket: Developed a tool TruePath, web extension for Chrome & Firefox browser, generates XPath dynamically on click. 
-Which has 60K users globally and generated around 2M XPath across 157 countries   
+Which has 60K users globally and generated around 2M XPath across 158 countries   
 
 You can try out     
 [TruePath-Chrome](https://chrome.google.com/webstore/detail/truepath/mgjhkhhbkkldiihlajcnlfchfcmhipmn?hl=en)  
