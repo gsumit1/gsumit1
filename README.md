@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Sumit
 - 👀 I’m interested in Test Automation(Java, Selenium, Restassured, SOUPUI, Cucumber, Javascript, Cypress, MounteBank), BDD, TDD, DevOps & Test Management
-- [My Blog Link](https://timus-4ever.medium.com/)
+- [My Blog Link](https://timus-4ever.medium.com/) 
+- [My Video Link](https://www.youtube.com/channel/UCU9PC-znisa8r0G8pOiX8vg)
 
 ![](https://komarev.com/ghpvc/?username=gsumit1)  
 
