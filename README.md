@@ -11,7 +11,7 @@ Which has 60K users globally and generated around 2M XPath across 158 countries
 You can try out     
 [TruePath-Chrome](https://chrome.google.com/webstore/detail/truepath/mgjhkhhbkkldiihlajcnlfchfcmhipmn?hl=en)  
 [TruePath-Firefox](https://addons.mozilla.org/en-US/firefox/addon/truepath/)  
-<img src="https://github.com/gsumit1/gsumit1/blob/main/world.JPG" width="400" height="300">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/17493208/202918131-00e5ab2b-61f3-426c-964b-2f015247dddc.png">
 
 -----------------------------
 [![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsumit1)](https://github-readme-stats.vercel.app/api?username=gsumit1&theme=radical)
